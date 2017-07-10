@@ -1,0 +1,5 @@
+cron:
+- description: Daily email
+  url: /send
+  schedule: every day 08:00
+  timezone: America/Edmonton
